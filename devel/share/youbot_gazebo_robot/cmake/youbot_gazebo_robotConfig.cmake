@@ -1,0 +1,1 @@
+/home/manuel/taskprocess/ARMTaskProcessCheckers/despot/devel/.private/youbot_gazebo_robot/share/youbot_gazebo_robot/cmake/youbot_gazebo_robotConfig.cmake

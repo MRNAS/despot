@@ -1,0 +1,5 @@
+despot_tutorials/robots/youbot/youbot_simulation/youbot_gazebo_worlds
+/home/manuel/taskprocess/ARMTaskProcessCheckers/despot/devel/.private/youbot_gazebo_worlds/cmake.lock /home/manuel/taskprocess/ARMTaskProcessCheckers/despot/devel/./cmake.lock
+/home/manuel/taskprocess/ARMTaskProcessCheckers/despot/devel/.private/youbot_gazebo_worlds/lib/pkgconfig/youbot_gazebo_worlds.pc /home/manuel/taskprocess/ARMTaskProcessCheckers/despot/devel/lib/pkgconfig/youbot_gazebo_worlds.pc
+/home/manuel/taskprocess/ARMTaskProcessCheckers/despot/devel/.private/youbot_gazebo_worlds/share/youbot_gazebo_worlds/cmake/youbot_gazebo_worldsConfig.cmake /home/manuel/taskprocess/ARMTaskProcessCheckers/despot/devel/share/youbot_gazebo_worlds/cmake/youbot_gazebo_worldsConfig.cmake
+/home/manuel/taskprocess/ARMTaskProcessCheckers/despot/devel/.private/youbot_gazebo_worlds/share/youbot_gazebo_worlds/cmake/youbot_gazebo_worldsConfig-version.cmake /home/manuel/taskprocess/ARMTaskProcessCheckers/despot/devel/share/youbot_gazebo_worlds/cmake/youbot_gazebo_worldsConfig-version.cmake

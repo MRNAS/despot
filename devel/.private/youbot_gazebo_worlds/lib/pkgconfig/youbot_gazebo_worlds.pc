@@ -1,0 +1,8 @@
+prefix=/home/manuel/taskprocess/ARMTaskProcessCheckers/despot/devel/.private/youbot_gazebo_worlds
+
+Name: youbot_gazebo_worlds
+Description: Description of youbot_gazebo_worlds
+Version: 0.8.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

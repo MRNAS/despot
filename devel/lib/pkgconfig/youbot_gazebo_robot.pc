@@ -1,0 +1,1 @@
+/home/manuel/taskprocess/ARMTaskProcessCheckers/despot/devel/.private/youbot_gazebo_robot/lib/pkgconfig/youbot_gazebo_robot.pc

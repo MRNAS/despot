@@ -1,0 +1,1 @@
+/home/manuel/taskprocess/ARMTaskProcessCheckers/despot/devel/.private/youbot_description/share/youbot_description/cmake/youbot_descriptionConfig.cmake

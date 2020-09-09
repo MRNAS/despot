@@ -1,0 +1,147 @@
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target _laser_tag_generate_messages_check_deps_YoubotActionObs[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_py[0m
+[  0%] Built target rosgraph_msgs_generate_messages_eus
+[  0%] Built target geometry_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target roscpp_generate_messages_py
+[35m[1mScanning dependencies of target _laser_tag_generate_messages_check_deps_TagActionObs[0m
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[  0%] Built target actionlib_msgs_generate_messages_eus
+[  0%] Built target rosgraph_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target _laser_tag_generate_messages_check_deps_YoubotActionObs
+[35m[1mScanning dependencies of target roscpp_generate_messages_eus[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[  0%] Built target _laser_tag_generate_messages_check_deps_TagActionObs
+[  0%] Built target roscpp_generate_messages_eus
+[  0%] Built target rosgraph_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target tf_generate_messages_py[0m
+[  0%] Built target sensor_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target rosgraph_msgs_generate_messages_cpp
+[  0%] Built target sensor_msgs_generate_messages_py
+[  0%] Built target tf_generate_messages_py
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target tf_generate_messages_eus[0m
+[35m[1mScanning dependencies of target tf_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target actionlib_generate_messages_eus[0m
+[  0%] Built target actionlib_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_cpp[0m
+[  0%] Built target tf_generate_messages_nodejs
+[  0%] Built target tf_generate_messages_eus
+[35m[1mScanning dependencies of target actionlib_generate_messages_lisp[0m
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[  0%] Built target actionlib_generate_messages_eus
+[35m[1mScanning dependencies of target tf_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target actionlib_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_nodejs[0m
+[  0%] Built target actionlib_generate_messages_lisp
+[  0%] Built target tf_generate_messages_cpp
+[  0%] Built target actionlib_generate_messages_nodejs
+[  0%] Built target sensor_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_cpp[0m
+[  0%] Built target nav_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_lisp[0m
+[  0%] Built target tf2_msgs_generate_messages_cpp
+[  0%] Built target tf2_msgs_generate_messages_eus
+[  0%] Built target nav_msgs_generate_messages_eus
+[  0%] Built target nav_msgs_generate_messages_py
+[  0%] Built target tf2_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target actionlib_generate_messages_py[0m
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_lisp[0m
+[  0%] Built target actionlib_generate_messages_py
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[  0%] Built target tf2_msgs_generate_messages_py
+[  0%] Built target tf2_msgs_generate_messages_nodejs
+[  0%] Built target nav_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_py[0m
+[  0%] Built target std_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target tf_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_py[0m
+[  0%] Built target geometry_msgs_generate_messages_py
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_lisp[0m
+[  0%] Built target tf_generate_messages_lisp
+[  0%] Built target actionlib_msgs_generate_messages_py
+[  0%] Built target actionlib_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_cpp[0m
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_nodejs[0m
+[  0%] Built target nav_msgs_generate_messages_cpp
+[  0%] Built target sensor_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target roscpp_generate_messages_cpp[0m
+[  0%] Built target sensor_msgs_generate_messages_lisp
+[  0%] Built target actionlib_msgs_generate_messages_nodejs
+[  0%] Built target roscpp_generate_messages_cpp
+[35m[1mScanning dependencies of target actionlib_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target laser_tag_generate_messages_py[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_nodejs[0m
+[  0%] Built target actionlib_generate_messages_cpp
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[  0%] Built target roscpp_generate_messages_lisp
+[  4%] [34m[1mGenerating Python code from SRV laser_tag/TagActionObs[0m
+[  4%] Built target roscpp_generate_messages_nodejs
+[35m[1mScanning dependencies of target laser_tag_generate_messages_eus[0m
+[35m[1mScanning dependencies of target laser_tag_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target laser_tag_generate_messages_nodejs[0m
+[  8%] [34m[1mGenerating Python code from SRV laser_tag/YoubotActionObs[0m
+[ 13%] [34m[1mGenerating EusLisp code from laser_tag/TagActionObs.srv[0m
+[ 17%] [34m[1mGenerating Javascript code from laser_tag/TagActionObs.srv[0m
+[ 21%] [34m[1mGenerating Lisp code from laser_tag/TagActionObs.srv[0m
+[ 26%] [34m[1mGenerating Javascript code from laser_tag/YoubotActionObs.srv[0m
+[ 30%] [34m[1mGenerating Lisp code from laser_tag/YoubotActionObs.srv[0m
+[ 34%] [34m[1mGenerating EusLisp code from laser_tag/YoubotActionObs.srv[0m
+[ 34%] Built target laser_tag_generate_messages_nodejs
+[ 34%] Built target laser_tag_generate_messages_lisp
+[ 39%] [34m[1mGenerating EusLisp manifest code for laser_tag[0m
+[35m[1mScanning dependencies of target laser_tag_generate_messages_cpp[0m
+[ 43%] [34m[1mGenerating Python srv __init__.py for laser_tag[0m
+[ 47%] [34m[1mGenerating C++ code from laser_tag/YoubotActionObs.srv[0m
+[ 52%] [34m[1mGenerating C++ code from laser_tag/TagActionObs.srv[0m
+[ 52%] Built target laser_tag_generate_messages_py
+[ 52%] Built target laser_tag_generate_messages_cpp
+[ 52%] Built target laser_tag_generate_messages_eus
+[35m[1mScanning dependencies of target test_laser_tag_controller[0m
+[35m[1mScanning dependencies of target laser_tag_generate_messages[0m
+[35m[1mScanning dependencies of target pomdp_planner[0m
+[35m[1mScanning dependencies of target youbot_interface[0m
+[35m[1mScanning dependencies of target laser_tag_controller[0m
+[ 52%] Built target laser_tag_generate_messages
+[ 56%] [32mBuilding CXX object CMakeFiles/test_laser_tag_controller.dir/test/test_laser_tag_controller.cpp.o[0m
+[ 60%] [32mBuilding CXX object CMakeFiles/pomdp_planner.dir/src/pomdp_planner/base/base_tag.cpp.o[0m
+[ 65%] [32mBuilding CXX object CMakeFiles/pomdp_planner.dir/src/pomdp_planner/laser_tag.cpp.o[0m
+[ 69%] [32mBuilding CXX object CMakeFiles/laser_tag_controller.dir/src/robot_controller/laser_tag_controller.cpp.o[0m
+[ 73%] [32mBuilding CXX object CMakeFiles/youbot_interface.dir/src/robot_controller/youbot_interface.cpp.o[0m
+[ 78%] [32mBuilding CXX object CMakeFiles/pomdp_planner.dir/src/pomdp_planner/laser_tag_world.cpp.o[0m
+[ 82%] [32mBuilding CXX object CMakeFiles/pomdp_planner.dir/src/pomdp_planner/main.cpp.o[0m
+[ 86%] [32m[1mLinking CXX executable /home/manuel/taskprocess/ARMTaskProcessCheckers/despot/devel/.private/laser_tag/lib/laser_tag/test_laser_tag_controller[0m
+[ 86%] Built target test_laser_tag_controller
+[ 91%] [32m[1mLinking CXX executable /home/manuel/taskprocess/ARMTaskProcessCheckers/despot/devel/.private/laser_tag/lib/laser_tag/pomdp_planner[0m
+[ 95%] [32m[1mLinking CXX executable /home/manuel/taskprocess/ARMTaskProcessCheckers/despot/devel/.private/laser_tag/lib/laser_tag/youbot_interface[0m
+[ 95%] Built target pomdp_planner
+[ 95%] Built target youbot_interface
+[100%] [32m[1mLinking CXX executable /home/manuel/taskprocess/ARMTaskProcessCheckers/despot/devel/.private/laser_tag/lib/laser_tag/laser_tag_controller[0m
+[100%] Built target laser_tag_controller

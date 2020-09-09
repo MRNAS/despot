@@ -1,0 +1,8 @@
+prefix=/home/manuel/taskprocess/ARMTaskProcessCheckers/despot/devel/.private/youbot_gazebo_control
+
+Name: youbot_gazebo_control
+Description: Description of youbot_gazebo_control
+Version: 0.8.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
