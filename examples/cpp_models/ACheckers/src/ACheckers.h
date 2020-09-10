@@ -12,13 +12,13 @@ namespace despot {
 
 class SimpleState: public State {
 public:
-	int rover_position; // positions are numbered 0, 1, 2 from left to right
-	int rock_status; // 1 is good, and 0 is bad
+	int Checker_position; // positions are 0-63. However, pieces can only travel to 32 positions
+	int goal_status; // 1 is good (you are at the goal), and 0 is bad (you are not at the goal)
 
 	SimpleState();
-	SimpleState(int _rover_position, int _rock_status) : 
-        rover_position(_rover_position),
-        rock_status(_rock_status) {
+	SimpleState(int _Checker_position, int _goal_status) : 
+        Checker_position(_Checker_position),
+        goal_status(_goal_status) {
     }
 	~SimpleState();
 
