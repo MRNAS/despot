@@ -20,34 +20,34 @@ SimpleState::~SimpleState() {
 }
 
 string SimpleState::text() const {
-	return "rover position = " + to_string(rover_position) + " rock_status = " +
-		to_string(rock_status);
+	return "Checker position = " + to_string(Checker_position) + " goal_status = " +
+		to_string(goal_status);
 }
 
 /* =============================================================================
  * SimpleRockSample class
  * =============================================================================*/
 
-SimpleRockSample::SimpleRockSample() {
+ACheckers::ACheckers() {
 }
 
 /* ======
  * Action
  * ======*/
 
-int SimpleRockSample::NumActions() const {
-	return 4;
+int ACheckers::NumActions() const {
+	return 5;
 }
 
 /* ==============================
  * Deterministic simulative model
  * ==============================*/
 
-bool SimpleRockSample::Step(State& state, double rand_num, ACT_TYPE action,
+bool ACheckers::Step(State& state, double rand_num, ACT_TYPE action,
         double& reward, OBS_TYPE& obs) const {
     SimpleState& simple_state = static_cast < SimpleState& >(state);
-    int& rover_position = simple_state.rover_position;
-    int& rock_status = simple_state.rock_status;
+    int& Checker_position = simple_state.Checker_position;
+    int& goal_status = simple_state.goal_status;
  
     if (rover_position == LEFT) {
         if (action == A_SAMPLE) {

@@ -26,10 +26,10 @@ public:
 };
 
 /* =============================================================================
- * SimpleRockSample class
+ * ACheckers class
  * =============================================================================*/
 
-class SimpleRockSample: public DSPOMDP {
+class ACheckers: public DSPOMDP {
 protected:
 	mutable MemoryPool<SimpleState> memory_pool_;
 
@@ -38,21 +38,28 @@ protected:
 	mutable std::vector<ValuedAction> mdp_policy_;
 
 public:
-	enum { // action
-		A_SAMPLE = 0, A_EAST = 1, A_WEST = 2, A_CHECK = 3
+	enum { // actions: stay, TopLeft, TopRight, BottomLeft, Bottom Right
+		A_STAY = 0, A_TL = 1, A_TR = 2, A_BL = 3, A_BR = 4
 	};
-	enum { // observation
+	enum { // observation ? not decided
 		O_BAD = 0, O_GOOD = 1
 	};
-	enum { // rock status
-		R_BAD = 0, R_GOOD = 1
+	enum { // goal status: Am I at the goal? Y/N
+		G_BAD = 0, G_GOOD = 1
 	};
-	enum { // rover position
-		LEFT = 0, MIDDLE = 1, RIGHT = 2
+	enum { // Checker position. State-Row_Column of Board (Dark)
+		SRC_01 = 0, SRC_03 = 1, SRC_05 = 2, SRC_07 = 3,
+		SRC_10 = 4, SRC_12 = 5, SRC_14 = 6, SRC_16 = 7,
+		SRC_21 = 8, SRC_23 = 9, SRC_25 = 10, SRC_27 =11,
+		SRC_30 = 12, SRC_32 = 13, SRC_34 = 14, SRC_36 = 15,
+		SRC_41 = 16, SRC_43 = 17, SRC_45 = 18, SRC_47 = 19,
+		SRC_50 = 20, SRC_52 = 21, SRC_54 = 22, SRC_56 = 23,
+		SRC_61 = 24, SRC_63 = 25, SRC_65 = 26, SRC_67 = 27,
+		SRC_70 = 28, SRC_72 = 29, SRC_74 = 30, SRC_76 = 31
 	};
 
 public:
-	SimpleRockSample();
+	ACheckers();
 
 	/* Returns total number of actions.*/
 	int NumActions() const;
