@@ -1,6 +1,0 @@
-devel_space: /home/manuel/taskprocess/ARMTaskProcessCheckers/despot/devel
-install: false
-install_space: /home/manuel/taskprocess/ARMTaskProcessCheckers/despot/install
-profile: default
-source_space: /home/manuel/taskprocess/ARMTaskProcessCheckers/despot/src
-workspace: /home/manuel/taskprocess/ARMTaskProcessCheckers/despot

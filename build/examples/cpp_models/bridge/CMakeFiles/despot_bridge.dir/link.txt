@@ -1,1 +1,0 @@
-/usr/bin/c++   -msse2 -mfpmath=sse  -rdynamic CMakeFiles/despot_bridge.dir/src/bridge.cpp.o CMakeFiles/despot_bridge.dir/src/main.cpp.o  -o despot_bridge -Wl,-rpath,/home/manuel/taskprocess/ARMTaskProcessCheckers/despot/build: ../../../libdespot.so 

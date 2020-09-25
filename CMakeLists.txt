@@ -14,6 +14,7 @@ set(CMAKE_MODULE_PATH ${CMAKE_PREFIX_PATH} "${PROJECT_SOURCE_DIR}/cmake")
 
 include_directories(include)
 
+
 add_library("${PROJECT_NAME}" SHARED
   src/interface/pomdp.cpp
   src/interface/world.cpp
